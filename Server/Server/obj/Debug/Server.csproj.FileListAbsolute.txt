@@ -1,0 +1,10 @@
+D:\VSfiles\Server\Server\bin\Debug\Server.exe.config
+D:\VSfiles\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\VSfiles\Server\Server\obj\Debug\Server.Form1.resources
+D:\VSfiles\Server\Server\obj\Debug\Server.Properties.Resources.resources
+D:\VSfiles\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\VSfiles\Server\Server\bin\Debug\Server.exe
+D:\VSfiles\Server\Server\bin\Debug\Server.pdb
+D:\VSfiles\Server\Server\obj\Debug\Server.exe
+D:\VSfiles\Server\Server\obj\Debug\Server.pdb
+D:\VS Files\Distributed system\Server\Server\bin\Debug\Server.exe.config

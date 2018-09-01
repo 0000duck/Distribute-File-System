@@ -1,0 +1,18 @@
+D:\VSfiles\Server\Server\bin\Release\Server.exe.config
+D:\VSfiles\Server\Server\bin\Release\Server.exe
+D:\VSfiles\Server\Server\bin\Release\Server.pdb
+D:\VSfiles\Server\Server\obj\Release\Server.csprojResolveAssemblyReference.cache
+D:\VSfiles\Server\Server\obj\Release\Server.Form1.resources
+D:\VSfiles\Server\Server\obj\Release\Server.Properties.Resources.resources
+D:\VSfiles\Server\Server\obj\Release\Server.csproj.GenerateResource.Cache
+D:\VSfiles\Server\Server\obj\Release\Server.exe
+D:\VSfiles\Server\Server\obj\Release\Server.pdb
+D:\VS Files\Server\Server\bin\Release\Server.exe.config
+D:\VS Files\Server\Server\obj\Release\Server.exe
+D:\VS Files\Server\Server\obj\Release\Server.pdb
+D:\VS Files\Server\Server\bin\Release\Server.exe
+D:\VS Files\Server\Server\bin\Release\Server.pdb
+D:\VS Files\Server\Server\obj\Release\Server.csprojResolveAssemblyReference.cache
+D:\VS Files\Server\Server\obj\Release\Server.Form1.resources
+D:\VS Files\Server\Server\obj\Release\Server.Properties.Resources.resources
+D:\VS Files\Server\Server\obj\Release\Server.csproj.GenerateResource.Cache

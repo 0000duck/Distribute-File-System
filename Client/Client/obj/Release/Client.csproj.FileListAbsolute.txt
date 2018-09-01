@@ -1,0 +1,21 @@
+D:\VSfiles\Client\Client\bin\Release\Client.exe.config
+D:\VSfiles\Client\Client\bin\Release\Client.exe
+D:\VSfiles\Client\Client\bin\Release\Client.pdb
+D:\VSfiles\Client\Client\obj\Release\Client.ClientForm.resources
+D:\VSfiles\Client\Client\obj\Release\Client.Properties.Resources.resources
+D:\VSfiles\Client\Client\obj\Release\Client.csproj.GenerateResource.Cache
+D:\VSfiles\Client\Client\obj\Release\Client.exe
+D:\VSfiles\Client\Client\obj\Release\Client.pdb
+D:\VSfiles\Client\Client\obj\Release\Client.csprojResolveAssemblyReference.cache
+D:\VS Files\Client\Client\bin\Release\Client.exe.config
+D:\VS Files\Client\Client\bin\Release\Client.exe
+D:\VS Files\Client\Client\bin\Release\Client.pdb
+D:\VS Files\Client\Client\obj\Release\Client.csprojResolveAssemblyReference.cache
+D:\VS Files\Client\Client\obj\Release\Client.ClientForm.resources
+D:\VS Files\Client\Client\obj\Release\Client.Properties.Resources.resources
+D:\VS Files\Client\Client\obj\Release\Client.csproj.GenerateResource.Cache
+D:\VS Files\Client\Client\obj\Release\Client.exe
+D:\VS Files\Client\Client\obj\Release\Client.pdb
+D:\VS Files\Distributed system\Client\Client\bin\Release\Client.exe.config
+D:\VS Files\Distributed system\Client\Client\obj\Release\Client.exe
+D:\VS Files\Distributed system\Client\Client\obj\Release\Client.pdb

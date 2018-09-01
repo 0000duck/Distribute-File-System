@@ -1,0 +1,13 @@
+D:\VSfiles\Monitor\Monitor\bin\Debug\Monitor.pdb
+D:\VSfiles\Monitor\Monitor\obj\Debug\Monitor.pdb
+D:\VSfiles\Monitor\Monitor\bin\Debug\Monitor.exe.config
+D:\VSfiles\Monitor\Monitor\bin\Debug\Monitor.exe
+D:\VSfiles\Monitor\Monitor\obj\Debug\Monitor.exe
+D:\VSfiles\Monitor\Monitor\obj\Debug\Monitor.csprojResolveAssemblyReference.cache
+D:\VS Files\Monitor\Monitor\bin\Debug\Monitor.exe.config
+D:\VS Files\Monitor\Monitor\obj\Debug\Monitor.exe
+D:\VS Files\Monitor\Monitor\obj\Debug\Monitor.pdb
+D:\VS Files\Monitor\Monitor\bin\Debug\Monitor.exe
+D:\VS Files\Monitor\Monitor\bin\Debug\Monitor.pdb
+D:\VS Files\Monitor\Monitor\obj\Debug\Monitor.csprojResolveAssemblyReference.cache
+D:\VS Files\Distributed system\Monitor\Monitor\bin\Debug\Monitor.exe.config
